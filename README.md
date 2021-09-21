@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 -->
 
 ### Some Statistics About Me
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiKng-Coding&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiKng-Coding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
