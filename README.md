@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
 ### Some Statistics About Me
-![Zeekg's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiKng-Coding&show_icons=true&theme=flag-india)
+![Zeekg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeekg-zk&show_icons=true&theme=flag-india)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiKng-Coding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeekg-zk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
