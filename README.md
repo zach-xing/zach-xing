@@ -1,21 +1,16 @@
-### Hi I'm Zeekg 👋
+<h2 align="center">
+  Hi! I'm Zeekg 👋
+</h2>
 
-- studying
-<!--
-**ZiKng-Coding/ZiKng-Coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📌 Studying...
+- ✊ Specialised in FrontEnd
+- 😄 Love music🎧、Love animation🌅、Love coding💻
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📘 Github Info
 
-![Zeekg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeekg-zk&show_icons=true&theme=radical)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zeekg-zk&show_icons=true&theme=buefy" alt="snowwhite-boss" align = "center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeekg-zk&theme=buefy&layout=compact&hide=CSS,Less,SCSS" alt="snowwhite-boss" align = "center"/>
+</p>
 
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeekg-zk&layout=compact&hide=CSS,Less,SCSS)
