@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-  <img width="85%" src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=Zeekg-zk" alt="GitHub info">
+  <img width="100%" src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=Zeekg-zk" alt="GitHub info">
 </p>
