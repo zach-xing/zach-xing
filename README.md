@@ -4,7 +4,7 @@
 
 - 📌 Studying...
 - ✊ Specialised in FrontEnd
-- 😄 Love music🎧、Love animation🌅、Love coding💻
+- 😄 Love music🎧、Love anime🌅、Love coding💻
 
 
 ### 📘 Github Info
