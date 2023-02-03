@@ -3,5 +3,5 @@
 </h3>
 
 - 💕 JS/TS & Rust
-- 👩‍💻 Front-end engineer
+- 👩‍💻 Front-end Engineer
 - 😄 Love music🎧、Love anime🌅、Love coding💻
