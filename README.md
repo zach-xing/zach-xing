@@ -4,4 +4,4 @@
 
 - 💕 JS/TS & Rust
 - 👩‍💻 Front-end Engineer
-- 😄 Love music🎧、Love anime🌅、Love coding💻
+- 😄 Love music🎧、Love coding💻
