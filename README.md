@@ -2,6 +2,6 @@
   Hi 👋 I'm Zeekg
 </h3>
 
-- 💕 JS/TS & Rust
+- 💕 JavaScript/TypeScript
 - 👩‍💻 Front-end Engineer
 - 😄 Love music🎧、Love coding💻
