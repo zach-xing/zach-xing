@@ -8,7 +8,7 @@
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="python-logo-only.svg"
    width="83.371017pt"
-   height="101.00108pt"
+   height="83.371017pt"
    inkscape:export-filename="python-logo-only.png"
    inkscape:export-xdpi="232.44"
    inkscape:export-ydpi="232.44"
@@ -20,44 +20,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <metadata
-     id="metadata371">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     inkscape:window-height="2080"
-     inkscape:window-width="1976"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     guidetolerance="10.0"
-     gridtolerance="10.0"
-     objecttolerance="10.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
-     id="base"
-     inkscape:zoom="2.1461642"
-     inkscape:cx="91.558698"
-     inkscape:cy="47.9926"
-     inkscape:window-x="1092"
-     inkscape:window-y="72"
-     inkscape:current-layer="svg2"
-     width="210mm"
-     height="40mm"
-     units="mm"
-     inkscape:showpageshadow="2"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="pt"
-     showgrid="false"
-     inkscape:window-maximized="0" />
+  
   <defs
      id="defs4">
     <linearGradient
